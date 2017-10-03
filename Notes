@@ -30,4 +30,4 @@
 30.git push : Adding the changes to the origin repo
 31.gedit Notes : opens notes file
 32.git pull : updates local repo with origin repo
-
+33.Note:(VI instructions)After commiting, you shoud give a commit message. Press "i" to go to 'insert' mode and type the commit message. Then press 'Esc' button and save by pressing "Shift key + : wq".
