@@ -25,4 +25,7 @@
 25.git remote -v : displays all the repository urls
 26.  gedit : opens the notepad application
 27.history : shows all the used commands
-
+git add Notes : Adding file to repository
+git commit Notes: Committing the file "Notes" (the changes added to local machine)
+git push : Adding the changes to the origin repo
+ 
